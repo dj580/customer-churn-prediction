@@ -67,3 +67,21 @@ Telco Customer Churn dataset containing customer demographics, services, and bil
   "MonthlyCharges": 70.5,
   "TotalCharges": 850.4
 }
+
+
+## Setup Instructions
+
+1. Clone the repository
+```bash
+git clone https://github.com/dj580/customer-churn-prediction.git
+2. Navigate to the project folder
+
+cd customer-churn-prediction
+3.Install required dependencies
+pip install -r requirements.txt
+4.Run the Flask application
+Run the Flask application
+The API will run at:http://127.0.0.1:5000
+You can test the /predict endpoint using tools like Thunder Client
+
+
